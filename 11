@@ -1,0 +1,38 @@
+
+  body {
+      background-color: rgb(239, 251, 252);
+  }
+
+a {
+    padding-right: 40px;
+   color: rgb(57, 71, 71);
+   text-decoration: none
+  }
+  p {
+      color: rgb(57, 71, 71);
+      text-decoration: none
+      font-stretch: expanded;
+  }
+  h1 { font-family: 'Gill Sans';
+    text-decoration: none;
+    color: rgb(57, 71, 71);
+
+ }
+ img {
+    padding-right: 40px;
+    padding-left: 40px;
+ }
+ form {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    size: 500px;
+ } 
+ .wew {
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    size: 500px;
+ }
